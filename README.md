@@ -35,7 +35,7 @@
 | 14   | [Longest Common Prefix][014]             | String                                   |
 | 20   | [Valid Parentheses][020]                 | Stack, String                            |
 | 21   | [Merge Two Sorted Lists][021]            | Linked List                              |
-| 26   | [Remove Duplicates from Sorted Array][026] | Array, Two Pointers                      |
+| 26   | [Remove Duplicates from Sorted Array][026]  看过了 | Array, Two Pointers                      |
 | 27   | [Remove Element][027]                    | Array, Two Pointers                      |
 | 28   | [Implement strStr()][028]                | Two Pointers, String                     |
 | 35   | [Search Insert Position][035]            | String                                   |
